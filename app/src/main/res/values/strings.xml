@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppAgenda</string>
+    <string-array  name="tipo">
+        <item>Reunião</item>
+        <item>Visitar cliente</item>
+        <item>Atividade administrativa</item>
+    </string-array>
 </resources>
